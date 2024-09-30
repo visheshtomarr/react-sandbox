@@ -2,8 +2,8 @@
 // import UseRefExample2 from "./components/UseRefExample2";
 // import UseRefExample3 from "./components/UseRefExample3";
 // import UseMemoExample from "./components/UseMemoExample";
-
-import UseCallbackExample from "./components/UseCallbackExample";
+// import UseCallbackExample from "./components/UseCallbackExample";
+import CustomUseFetchExample from "./components/CustomUseFetchExample";
 
 function App() {
   return (
@@ -12,7 +12,8 @@ function App() {
       {/* <UseRefExample2 />  */}
       {/* <UseRefExample3 /> */}
       {/* <UseMemoExample /> */}
-      <UseCallbackExample />
+      {/* <UseCallbackExample /> */}
+      <CustomUseFetchExample />
     </div>
   );
 }
